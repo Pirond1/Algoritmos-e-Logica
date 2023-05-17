@@ -8,5 +8,5 @@ void main(){
 	scanf("%s", nome);
 	printf("Informe seu Sobrenome: ");
 	scanf("%s", sobrenome);
-	printf("Nome Informado: %s, %s", nome, sobrenome);
+	printf("Nome Informado: %s %s", nome, sobrenome);
 }
