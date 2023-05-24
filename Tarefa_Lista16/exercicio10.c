@@ -12,7 +12,7 @@ void main(){
 		if(alt > alt2){
 			alt2 = alt;
 		}
-		cont++;
+		cont++; /* Contador de Pessoas */
 		printf("Deseja Continuar? (1-Sim / 2-Nao): ");
 		scanf("%f", &resp);		
 	}
